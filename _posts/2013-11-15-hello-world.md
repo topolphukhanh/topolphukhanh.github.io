@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 categories: [demo]
-tags: [jelly]
+tags: [jekyll]
 fullview: true
 comments: true
 ---
