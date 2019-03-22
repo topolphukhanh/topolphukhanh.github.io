@@ -5,8 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: khanhtcp
+google_analytics: khanhtcp
 title: dbyll
 
 defaults:
@@ -21,7 +21,7 @@ author:
   name: khanhtcp
   email: topol.phukhanh@gmail.com
   github: topolphukhanh
-  twitter: khanhtcp
+  twitter: tcpkhanh
 #  pinterest: asd123
   linkedin: trancongphukhanh
   bio: Love and live of Naruto
