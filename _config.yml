@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: khanhtcp-ghost
+disqus: khanhtcp
 google_analytics: khanhtcp
 title: khanhtcp
 
@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: khanhtcp
+      title: ktcp
 
 description: Khanhtcp's website
 author:
