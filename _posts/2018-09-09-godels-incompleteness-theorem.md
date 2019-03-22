@@ -6,7 +6,7 @@ tags: [Political, Management]
 description: Godels incompleteness theorem
 ---
 
-Political Economy and Management.
+#Political Economy and Management.
 
 Abstract: Gottfried Leibniz once said: “Without mathematics we cannot penetrate deeply into philosophy. Without philosophy we cannot penetrate deeply into mathematics. Without both we cannot penetrate deeply into anything.”. Quoting Leibniz, Perry Marshall leads us to the world of Maths and Philosophy, where we can see more clearly the truth. That is the aim of his lecture: “Gödel’s Incompleteness Theorem: The #1 Mathematical Discovery of the 20th Century”.
 
@@ -18,7 +18,7 @@ Gottfried Leibniz nói: “Không có toán học chúng ta không thể đi sâ
 
 Định lý Bất toàn của Gödel :
 
-“Bất kỳ lý thuyết nào được tạo ra một cách hiệu quả đủ khả năng biểu diễn số học sơ cấp đều không thể vừa nhất quán vừa đầy đủ. Đặc biệt, đối với bất kỳ lý thuyết hình thức nào nhất quán, được tạo ra một cách hiệu quả cho phép chứng minh một số chân lý số học căn bản, sẽ có một mệnh đề số học đúng nhưng không thể chứng minh trong lý thuyết ấy.”
+-   “Bất kỳ lý thuyết nào được tạo ra một cách hiệu quả đủ khả năng biểu diễn số học sơ cấp đều không thể vừa nhất quán vừa đầy đủ. Đặc biệt, đối với bất kỳ lý thuyết hình thức nào nhất quán, được tạo ra một cách hiệu quả cho phép chứng minh một số chân lý số học căn bản, sẽ có một mệnh đề số học đúng nhưng không thể chứng minh trong lý thuyết ấy.”
 
 “Bất cứ điều gì mà bạn có thể vẽ một vòng tròn bao quanh nó sẽ không thể tự giải thích về bản thân nó mà không tham chiếu đến một cái gì đó ở bên ngoài vòng tròn – một cái gì đó mà bạn phải thừa nhận là đúng nhưng không thể chứng minh.”
 
@@ -32,13 +32,13 @@ Perry Marshall
 
 Ý nghĩa trong khoa học xã hội:
 
-● Đức tin và Lý lẽ không phải là kẻ thù của nhau. Thực ra điều ngược lại mới đúng! Cái này nhất thiết cần cái kia để tồn tại. Mọi lý lẽ rốt cuộc đều quay trở lại niềm tin vào một cái gì đó mà bạn không thể chứng minh.
-● Mọi hệ thống đóng kín đều phụ thuộc vào một cái gì đó ở bên ngoài hệ thống.
-● Bạn luôn luôn có thể vẽ một vòng tròn lớn hơn nhưng sẽ luôn luôn tồn tại một cái gì đó bên ngoài vòng tròn.
-● Lý lẽ hướng từ một vòng tròn lớn hơn vào một vòng tròn nhỏ hơn là “lý lẽ suy diễn”.
-● Lý lẽ hướng từ một vòng tròn nhỏ hơn ra một vòng tròn lớn hơn là “lý lẽ quy nạp”.
+- Đức tin và Lý lẽ không phải là kẻ thù của nhau. Thực ra điều ngược lại mới đúng! Cái này nhất thiết cần cái kia để tồn tại. Mọi lý lẽ rốt cuộc đều quay trở lại niềm tin vào một cái gì đó mà bạn không thể chứng minh.
+- Mọi hệ thống đóng kín đều phụ thuộc vào một cái gì đó ở bên ngoài hệ thống.
+- Bạn luôn luôn có thể vẽ một vòng tròn lớn hơn nhưng sẽ luôn luôn tồn tại một cái gì đó bên ngoài vòng tròn.
+- Lý lẽ hướng từ một vòng tròn lớn hơn vào một vòng tròn nhỏ hơn là “lý lẽ suy diễn”.
+- Lý lẽ hướng từ một vòng tròn nhỏ hơn ra một vòng tròn lớn hơn là “lý lẽ quy nạp”.
 
-Phần chính 1 : Formal methods of analysis in economics
+*Phần chính 1 : Formal methods of analysis in economics*
 
 By ‘formal methods’, I mean the use of logic and mathematics to build models of economic systems or situations. The deductive structure of a model helps one to explore the consequences of alternative assumptions. This constrasts, for example, with the use of statistical methods solely for the purpose of summarizing empirical data. One can experiment with the model (by changing the assumptions) when it would be impossible or too dangerous to experiment with the world of experience. The most common formal methods in economics are: Linear Programing, Decission Theory, Game Thoery and its extensions, and Artificial Intelligence.
 
