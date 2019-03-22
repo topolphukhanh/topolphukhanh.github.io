@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Success Factors in R&D Leadership.
+title: Introvert.
 categories: [Management]
 tags: [Culure, Introverts, Management]
 description: Success Factors in R&D Leadership
