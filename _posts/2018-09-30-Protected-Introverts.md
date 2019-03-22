@@ -4,7 +4,7 @@ title: Success Factors in R&D Leadership.
 categories: [Management]
 tags: [Culure, Introverts, Management]
 description: Success Factors in R&D Leadership
-------
+---
 #shhhh
 
 Companies would benefit from helping introverts to thrive
