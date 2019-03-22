@@ -7,16 +7,16 @@ highlighter: rouge
 markdown: kramdown
 disqus: khanhtcp
 google_analytics: khanhtcp
-title: dbyll
+title: khanhtcp
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: khanhtcp
 
-description: Stylish Jekyll Theme
+description: Khanhtcp's website
 author:
   name: khanhtcp
   email: topol.phukhanh@gmail.com
