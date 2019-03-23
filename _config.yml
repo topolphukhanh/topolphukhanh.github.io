@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: khanhtcp
 google_analytics: khanhtcp
-title: "Stay hungry stay foolish"
+title: khanhtcp
 
 defaults:
   -
@@ -18,7 +18,7 @@ defaults:
 
 description: Khanhtcp's website
 author:
-  name: khanhtcp
+  name: "Stay hungry stay foolish"
   email: topol.phukhanh@gmail.com
   github: topolphukhanh
   twitter: tcpkhanh
