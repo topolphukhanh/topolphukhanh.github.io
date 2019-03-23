@@ -33,7 +33,8 @@ Steven Jobs:
 ![Steven Jobs](https://image.slidesharecdn.com/researchinadvertisingfinal-140409215258-phpapp01/95/research-in-advertising-idea-killer-or-sharpener-53-638.jpg?cb=1397080548)
 "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.”
 
-Happiness on an unhappy day
+Happiness on an unhappy day.
+![2019-03-23-17h](https://lh3.googleusercontent.com/bRWBCgxnVD-yjF_f2dn5G76MFmkTufhS9lghF0wMKGnBLgh596UB5DGuUk7R9BpjlCgiFYVV2QEUHg8OLEMxTBeVXgSFWIPIRauvY91D0yM8WPOrm2FIvbN9mncAXFw99K8bK36dARdmYQSDhlOTRyGo5h0m_IoPo-DRvWHZ4tACAifgE8wtqsZsxEhwSgKf-oyU6VyxmKPjZhYa04YCAD4XH4WtNIlMbGyOhR2EHqm6KcRGhNjN0IqReMSq8qbuNcPkPMLYJrtxNSs5VtDDGFgWaUPEosWXVlU6eJYUN5pORql7ayxAy7PpSYLgMBjmH9j8gwc84WBhBvjU0r6MiJ23grSubQ3-qxO-9eBqOPnjjGRwwrlKBe7VygvTcVbZ2XAbJfOq2nM2F0JyHMRTc53iHKDZ0dWmwW7zL9Z1hBTZktNB-R_zRZ07TET0cAQkUtDhjYicnPNBTZNVwjISE3H5ZIrLtWD6pgJWM0qTzbxBXprBdvK8oWeuCsSbCldwTMj1BfGGU3Xxc1_pEYdTbWQ969Ys7b7JuVleMNN1T1znYydKc7Do_zTK4ehoT80vMW8L5p9vwl3hA6AugH1zZCKb8i1FTM-dK-EgZDHHVXEEUqO2dAJcE7nqzX_ssPoH11I1Sc-pQ_LnfyRY7JLgCm1nLOVtf9w=w581-h871-no)
 >> Keep moving forward.
 
 **Reference:**
