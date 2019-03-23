@@ -1,0 +1,11 @@
+# post
+2013-11-14-sample.md
+2013-11-15-hello-world.md
+
+
+# pycache
+*.pyc
+
+# ide, editor metadata
+.vscode
+.idea
