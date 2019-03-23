@@ -41,15 +41,15 @@ So on, ability to effectively combine "Big-data-specific technologies" is good "
 > Keep moving forward.
 
 **Reference:**
-1. [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
+- [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
 
 [Architecture](https://cdn-images-1.medium.com/max/1600/0*UP1PB3dR2pAPAIdk)
 
-2. [System Architectures for Personalization and Recommendation](https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8)
+- [System Architectures for Personalization and Recommendation](https://medium.com/netflix-techblog/system-architectures-for-personalization-and-recommendation-e081aa94b5d8)
 
 [Architecture](https://cdn-images-1.medium.com/max/800/1*qqTSkHNOzukJ5r-b54-wJQ.png)
 
-3. [Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
+- [Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
 
 [Architecture](http://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/image6.png)
 
