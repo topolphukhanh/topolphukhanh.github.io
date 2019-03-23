@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Political Economy and Management.
-categories: [Management]
-tags: [Political, Management]
+categories: [Leadership material]
+tags: [Political, Leadership]
 description: Godels incompleteness theorem
 ---
 
 #Political Economy and Management.
 
 Abstract: Gottfried Leibniz once said: “Without mathematics we cannot penetrate deeply into philosophy. Without philosophy we cannot penetrate deeply into mathematics. Without both we cannot penetrate deeply into anything.”. Quoting Leibniz, Perry Marshall leads us to the world of Maths and Philosophy, where we can see more clearly the truth. That is the aim of his lecture: “Gödel’s Incompleteness Theorem: The #1 Mathematical Discovery of the 20th Century”.
-
-Gottfried Leibniz nói: “Không có toán học chúng ta không thể đi sâu vào triết học. Không có triết học chúng ta không thể đi sâu vào toán học. Không có cả hai chúng ta không thể đi sâu vào bất cứ thứ gì”. Dẫn lời Leibniz, Perry Marshall đưa chúng ta vào thế giới của Toán học và Triết học, ở đó chúng ta có thể thấy rõ hơn chân lý, biết đâu là sự thật. Đó là mục đích bài giảng của ông: “Định lý Bất toàn của Gödel: Khám phá Toán học số 1 của thế kỷ 20”
 
 ![Alternative text](https://viethungpham.files.wordpress.com/2014/08/gode1m.jpg?w=833    "Godels")
 
@@ -38,7 +36,7 @@ Perry Marshall
 - Lý lẽ hướng từ một vòng tròn lớn hơn vào một vòng tròn nhỏ hơn là “lý lẽ suy diễn”.
 - Lý lẽ hướng từ một vòng tròn nhỏ hơn ra một vòng tròn lớn hơn là “lý lẽ quy nạp”.
 
-*Phần chính 1 : Formal methods of analysis in economics*
+*Idea 1 : Formal methods of analysis in economics*
 
 By ‘formal methods’, I mean the use of logic and mathematics to build models of economic systems or situations. The deductive structure of a model helps one to explore the consequences of alternative assumptions. This constrasts, for example, with the use of statistical methods solely for the purpose of summarizing empirical data. One can experiment with the model (by changing the assumptions) when it would be impossible or too dangerous to experiment with the world of experience. The most common formal methods in economics are: Linear Programing, Decission Theory, Game Thoery and its extensions, and Artificial Intelligence.
 

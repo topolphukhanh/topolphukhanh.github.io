@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Leader's Guide to Corporate Culture
-categories: [Management]
-tags: [Management, Culture]
+categories: [Leadership material]
+tags: [Leadership, Culture]
 ---
 
 The job, especially big data data science, is to persuade managers. It will be better if you have the right perception, to respond smartly.

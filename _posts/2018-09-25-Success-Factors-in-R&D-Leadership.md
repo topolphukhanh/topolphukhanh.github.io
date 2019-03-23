@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Success Factors in R&D Leadership.
-categories: [Management]
-tags: [Leadership, Management]
+categories: [Leadership material]
+tags: [Leadership]
 description: Success Factors in R&D Leadership
 ---
 #Success Factors in R&D Leadership
