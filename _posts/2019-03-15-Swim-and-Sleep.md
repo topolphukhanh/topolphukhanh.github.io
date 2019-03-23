@@ -7,7 +7,7 @@ description: Swimming & Sleeping.
 ---
 # Swimming
 
-More than 2 weeks I swiming in the morining at ~6.15 am. 
+More than 2 weeks I swim in the morning at ~6.15 am. 
 The target was gradually increase. I began with 6 rounds of swiming pools (a rounds is about ~50 meters). And now I hold a target with 12 rounds each day, increase 1 rounds in two days, and keep up 20 rounds a day.
 I hope to finish the hiking with 45 kilometers in the end of April. 
 That is fun and effective with the well-arranged plan.
