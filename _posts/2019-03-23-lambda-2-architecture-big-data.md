@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Lambda 2 Big data architecture.
+title: Lambda 2.0 Big data architecture.
 categories: [architecture]
-tags: [architecture, lambda 2]
+tags: [architecture, lambda]
 description: Lambda 2 Big data architecture..
 --- 
  
-# Lambda 2 Big data architecture.
+# Lambda 2.0 Big data architecture.
+Lambda Big data architecture with AI deploying.
 
 In a big data product to use AI functions, architecture is nothing but without or week in architecture, everything is nothing.
 
