@@ -5,7 +5,7 @@ categories: [Leadership material]
 tags: [Sleep, Health, Exercise]
 description: Swimming & Sleeping.
 ---
-#Swimming
+# Swimming
 
 More than 2 weeks I swiming in the morining at ~6.15 am. 
 The target was gradually increase. I began with 6 rounds of swiming pools (a rounds is about ~50 meters). And now I hold a target with 12 rounds each day, increase 1 rounds in two days, and keep up 20 rounds a day.
@@ -15,7 +15,7 @@ That is fun and effective with the well-arranged plan.
 Mozart of Chess, Magnus Carlsen. He plays sport a lots. He work exercise everyday none can concentration 7 hours per day.
 
 
-#Sleeping
+# Sleeping
 
 I determine to follow the program "Sleep Polyphasically As Much As You Like".
 The reason I find it superior is quite obvious when you bring up a few things that SPAMAYL-sleeper can do: 
