@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Website architecture 101
-categories: [architecture]
-tags: [website, architecture]
+categories: [Architecture]
+tags: [website, Architecture]
 description: Reference web architecture
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lambda 2.0 Big data architecture.
-categories: [architecture]
-tags: [architecture, lambda]
+categories: [Architecture]
+tags: [Architecture, Lambda]
 description: Lambda 2.0 Big data architecture..
 --- 
  
