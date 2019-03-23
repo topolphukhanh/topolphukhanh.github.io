@@ -29,6 +29,13 @@ At last, when you look your architecture again, it nearly like the solution of b
 Not only the big names have sample products type, but also the big name have different products type.
 So on, ability to effectively combine "Big-data-specific technologies" is good "Big data solution architect engineer".
 
+Steven Jobs:
+![Steven Jobs](https://image.slidesharecdn.com/researchinadvertisingfinal-140409215258-phpapp01/95/research-in-advertising-idea-killer-or-sharpener-53-638.jpg?cb=1397080548)
+"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.”
+
+Happiness on an unhappy day
+>> Keep moving forward.
+
 **Reference:**
 [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
 ![Netflix](https://cdn-images-1.medium.com/max/1600/0*UP1PB3dR2pAPAIdk)
