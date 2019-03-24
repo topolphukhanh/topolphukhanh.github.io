@@ -32,7 +32,9 @@ At last, when you look your architecture again, it nearly like the solution of b
 Not only the big names have sample products type, but also the big name have different products type.
 So on, ability to effectively combine "Big-data-specific technologies" is good "Big data solution architect engineer".
 
-
+The accuracy of sequence model (1% most popular items constitute) is 51%. 
+(8.8% of the interactions in Movielens dataset, 22.4% in Netflix dataset and 28.6% in RSC15 dataset).
+It's fun.
 
 [Steven Jobs quote](https://image.slidesharecdn.com/researchinadvertisingfinal-140409215258-phpapp01/95/research-in-advertising-idea-killer-or-sharpener-53-638.jpg?cb=1397080548)
 “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.
