@@ -9,7 +9,7 @@ description: Lambda 2.0 Big data architecture..
 # Lambda 2.0 Big data architecture.
 Lambda Big data architecture with AI deploying.
 
-In a big data product to use AI functions, architecture is nothing but without or week in architecture, everything is nothing.
+In a big data product to use AI functions, architecture is nothing but without or weaknesses in architecture, everything is nothing.
 
 To make solution in the function of product for millions users, today people use the artificial intelligence technology.
 It may be recommendation items, optimization price, fixed price, flash sale, campaign marketing, game rules, ... any things else to treat customers in a user/group level.

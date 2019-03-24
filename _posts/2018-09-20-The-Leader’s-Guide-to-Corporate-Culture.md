@@ -5,7 +5,7 @@ categories: [Leadership material]
 tags: [Leadership, Culture]
 ---
 
-The job, especially big data data science, is to persuade managers. It will be better if you have the right perception, to respond smartly.
+The job, especially data science, is to persuade managers. It will be better if you have the right perception, to respond smartly.
 
 The best leaders we have observed are fully aware of the multiple cultures within which they are embedded, can sense when change is required, and can deftly influence the process.
 
