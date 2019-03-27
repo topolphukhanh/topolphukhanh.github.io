@@ -28,12 +28,12 @@ Monitor performance of Cassandra:
 We have a strange query deploying, it takes 60 seconds to complete the query. Otherwise, it only take 0.16 seconds (mean) to complete query. 
 Is timeout of cassandra? So what is the reason.
 
-I follow the path of jobs query:
+Follow the path of jobs query:
 - networks trouble, it's cluster cassandra !?
-- memory full, trouble with swap ram? cassandra note recommend the swap space !?
+- memory !?, cassandra in memory trouble!? trouble with swap ram!? cassandra note recommend the swap space !?
 - bad disk !?
 - cpu resource trouble !?
-- and what else?
+- and what else!?
 
 
 Reference:
