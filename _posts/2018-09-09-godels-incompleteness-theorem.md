@@ -6,7 +6,7 @@ tags: [Political, Leadership]
 description: Godels incompleteness theorem
 ---
 
-#Political Economy and Management.
+# Political Economy and Management.
 
 Abstract: Gottfried Leibniz once said: “Without mathematics we cannot penetrate deeply into philosophy. Without philosophy we cannot penetrate deeply into mathematics. Without both we cannot penetrate deeply into anything.”. Quoting Leibniz, Perry Marshall leads us to the world of Maths and Philosophy, where we can see more clearly the truth. That is the aim of his lecture: “Gödel’s Incompleteness Theorem: The #1 Mathematical Discovery of the 20th Century”.
 
