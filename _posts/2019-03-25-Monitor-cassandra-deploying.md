@@ -11,13 +11,15 @@ description: Monitor performance cassandra for sequence recommendation models
 We using the cassandra to storage sequence data from real-time streaming user logs, with deep learning algorithms deploying. 
 The aim of solution is reaction to any event related the items. Performance of cassandra, especially speed of query must be required.
 
-mean   |0.155917
-std    |0.992435
-min    |0.061545
-25%    |0.092677
-50%    |0.158961
-75%    |0.176974
-max    |60.189077
+Some statistic description:
+mean    |0.155917
+std     |0.992435
+min     |0.061545
+25%     |0.092677
+50%     |0.158961
+75%     |0.176974
+max     |60.189077
+
 
 Monitor performance of Cassandra:
 
