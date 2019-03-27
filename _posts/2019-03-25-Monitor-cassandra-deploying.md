@@ -12,6 +12,7 @@ We using the cassandra to store sequence data from real-time streaming user logs
 The aim of solution is reaction to any event related the items. Performance of cassandra, especially speed of query must be required.
 
 Some statistic description:
+
 mean    |0.155917
 std     |0.992435
 min     |0.061545
