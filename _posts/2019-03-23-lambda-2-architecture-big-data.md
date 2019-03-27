@@ -18,13 +18,13 @@ Beside the general challenges of big data architect solutions (performance, avai
 sometime there is a specific requirement such as Agile in Data Analytics, Reactive for important events in
 real-time. 
 
-Researching and implementing the big data architecture can respond to real-time event with AI algorithms is dream picture of almost curious children. 
+Researching and implementing the big data architecture can respond to real-time event with AI algorithms is dream picture of most of curious children. 
 
 With some experience in real-time architecture, "great things are done by a series of small things brought together", it is Big-data-specific technology.
 
 You began with some module AI algorithms which is general topic research in AI fields, combine them to get "full system solution" so that it has ability to solve problem in a product function.
 
-Then you research big data technology, to get general knowledge. It is almost time with book, blog.
+Then you research big data technology, to get general knowledge. It is most of time with book, blog.
 And then you thought pipeline of data, and how it works in a system to meet the initial requirements. 
 Configuration, testing, explain, monitoring, adjusting to improve.
 
