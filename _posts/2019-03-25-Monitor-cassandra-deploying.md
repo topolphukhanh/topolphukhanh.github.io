@@ -30,8 +30,8 @@ We have a strange query deploying, it takes 60 seconds to complete the query. Ot
 Is timeout of cassandra? So what is the reason.
 
 Follow the path of jobs query:
-- networks trouble, it's cluster cassandra !?
-- memory !?, cassandra in memory trouble!? trouble with swap ram!? cassandra note recommend the swap space !?
+- It's cluster cassandra. networks trouble !? 
+- memory !?, cassandra in memory trouble!? trouble with swap ram!? cassandra note recommend the swap space to run in product!?
 - bad disk !?
 - cpu resource trouble !?
 - and what else!?
