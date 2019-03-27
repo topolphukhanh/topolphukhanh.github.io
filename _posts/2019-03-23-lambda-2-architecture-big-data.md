@@ -20,7 +20,7 @@ real-time.
 
 Researching and implementing the big data architecture can respond to real-time event with AI algorithms is dream picture of almost curious children. 
 
-With some experience in real-time architecture, "great things are done by a series of small things brought together", it is Big-data-specific technologies.
+With some experience in real-time architecture, "great things are done by a series of small things brought together", it is Big-data-specific technology.
 
 You began with some module AI algorithms which is general topic research in AI fields, combine them to get "full system solution" so that it has ability to solve problem in a product function.
 
