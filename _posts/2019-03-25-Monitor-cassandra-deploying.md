@@ -8,7 +8,7 @@ description: Monitor performance cassandra for sequence recommendation models
 
 # Monitor performance cassandra for online algorithms
 
-We using the cassandra to storage sequence data from real-time streaming user logs, with deep learning algorithms deploying. 
+We using the cassandra to store sequence data from real-time streaming user logs, with deep learning algorithms deploying. 
 The aim of solution is reaction to any event related the items. Performance of cassandra, especially speed of query must be required.
 
 Some statistic description:
