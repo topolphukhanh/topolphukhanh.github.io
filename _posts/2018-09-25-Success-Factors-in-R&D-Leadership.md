@@ -5,7 +5,7 @@ categories: [Leadership material]
 tags: [Leadership]
 description: Success Factors in R&D Leadership
 ---
-#Success Factors in R&D Leadership
+# Success Factors in R&D Leadership
 
 **Reference:**
 
