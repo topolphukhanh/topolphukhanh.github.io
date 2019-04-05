@@ -20,18 +20,24 @@ min     |0.061545
 50%     |0.158961
 75%     |0.176974
 max     |60.189077
+ 
+Logger in one week deploying real-time recommendation system for all users:
 
 
 Monitor performance of Cassandra:
+
 ![Cassandra](/pictures/cassandra_deploy_aweek.png)
 
 Number of users in a real-time section:
+
 ![Cassandra](/pictures/number_of_user_in_a_section_realtime.png)
 
 Number of items in a real-time section:
+
 ![Cassandra](/pictures/number_of_items_in_a_section_realtime.png)
 
-Number of events in a real-time of section:
+Number of events in a real-time section:
+
 ![Cassandra](/pictures/number_of_interaction_of_section_realtime.png)
 
 We have a strange query deploying, it takes 60 seconds to complete the query. Otherwise, it only take 0.16 seconds (mean) to complete query. 
