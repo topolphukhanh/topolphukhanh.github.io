@@ -24,14 +24,14 @@ max     |60.189077
 
 Monitor performance of Cassandra:
 
-![Cassandra](https://lh3.googleusercontent.com/bl4AEWOd8m_6sUczuaHRRg2OB7DLR9wRskrUEwWAIanQjrNx6KhQ3ugcorJrn5BEWpzcAd0jabpa6I_TNx5VB482j0WFRmWB_uKV09NYsBBNuMHZUpA86AnB-rnZqGEnOmHUxnFABFPA3XFcpqz5PLKabR3leDHhHWUnGympXiKt-851dbvoiPSg1AToFIwaIxQVq8ks4L-Sc5XHPndcSiDL_e2dSNiKFBM8OFqAC8pZjZZfvzSlJqaGH8Gxrx4ikOx-VIRfZa25fqYkXy-6aCmLTx38qRL7zkLLCeNwPTGAWov1Vv4gggzNSHyQWUaxGXgFBzhwQJBU57_5WNEXynr3Tssn47NGcxKyX6hZJxBNsN_zWI8FfTdx56IwIt7NlP4pVfKj7SKniBtKbpoJoGIrzDOMWn-FGADQmht1myo-Oyj04dJjPMAU7-x3P4lBhNVePkyuKKndSdCX-EKWjnx6MpyT7iakAmQCI7fl0BDWP0ivRKkci2Pz5Yu1mr_dCWszkDKHPOfaQ9yeZ3EKqhU83D006bdjNwALoKY45znoAJOFWZfT2d7p4G0Wu-tReezVYL-E-C-h19pTjhyRGYkAg20CYPy_I-eTqp1Q5xnjUuXeRGoyIiAq3lNz4TPhV-lVA-kP63ozr4G42vdkWSdnLnDdzXk=w395-h278-no)
+![Cassandra](https://lh3.googleusercontent.com/iYsHnlkKNi3jNnZkFP0tCe9juAAvzDTKaBh9mBwrrJxHVieCm2R_PF4iXrDoFeZBs3FpALvCPYaWdv28833Rb2C4XuUg1nfSYpvlLVMPOv6H7gXx7avPIf0W1YniCA8om93ThxIUSg=w395-h278-no)
 
 We have a strange query deploying, it takes 60 seconds to complete the query. Otherwise, it only take 0.16 seconds (mean) to complete query. 
 Is timeout of cassandra? So what is the reason.
 
 Follow the path of jobs query:
 - It's cluster cassandra. networks trouble !? 
-- memory !?, cassandra in memory trouble!? trouble with swap ram!? cassandra note recommend the swap space to run in product!?
+- memory !?, cassandra in memory trouble!? trouble with swap ram!? cassandra does not recommend the swap space to run in product!?
 - bad disk !?
 - cpu resource trouble !?
 - and what else!?
