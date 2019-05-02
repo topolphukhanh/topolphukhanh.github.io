@@ -9,7 +9,7 @@ description: Productivity Is Really About What You Don’t Do.
 
 The best productivity tip I ever got was the idea of a “stop-doing list” from Jim Collins. In this Age of Distraction, we’re all dodging and weaving between so much incoming information that what you don’t do on a daily basis has become as important—if not more—as what you do execute on.
 
-![Picture](/pictures/Dont-Do-2-1200.png)
+[Picture](/pictures/Dont-Do-2-1200.png)
 
 Here’s a list of the things I don’t do while working:
 
