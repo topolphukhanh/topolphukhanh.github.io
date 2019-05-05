@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A Recommender System for Debugging - Delay
+title: A Recommender System for Debugging - Delay.
 categories: [Architecture]
-tags: [Architecture, Cassandra]
-description: A Recommender System for Debugging - Delay
+tags: [Architecture, Debug, System]
+description: A Recommender System for Debugging - Delay.
 --- 
-# A Recommender System for Debugging - Delay
+# A Recommender System for Debugging - Delay.
 
 Hệ thống recommendation system bị delay vài phút !?
 

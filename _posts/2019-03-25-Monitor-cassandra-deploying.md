@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Monitor performance cassandra for online algorithms
+title: Monitor performance cassandra for online algorithms.
 categories: [Architecture]
 tags: [Architecture, Cassandra]
-description: Monitor performance cassandra for sequence recommendation models
+description: Monitor performance cassandra for sequence recommendation models.
 --- 
 
-# Monitor performance cassandra for online algorithms
+# Monitor performance cassandra for online algorithms.
 
 We using the cassandra to store sequence data from real-time streaming user logs, with deep learning algorithms deploying. 
 The aim of solution is reaction to any event related the items. Performance of cassandra, especially speed of query must be required.
