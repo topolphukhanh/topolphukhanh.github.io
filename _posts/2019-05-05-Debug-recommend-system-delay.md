@@ -14,7 +14,7 @@ Nguyên nhân là gì
 Mindset sẽ là lần ngược các vết có khả năng:
 - Bắt đầu từ hệ thống
 - Quá trình logs trễ
-- Quá trình ghi logs
+- Quá trình tương tác với logs
 
 
 Tôi bắt đầu từ các function của hệ thống trước, với logger:
