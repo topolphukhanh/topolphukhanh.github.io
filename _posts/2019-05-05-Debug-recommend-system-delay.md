@@ -33,3 +33,6 @@ Quá trình ghi recieve_at trên logs hoạt động bình thường về thời
 ![Time](/pictures/Time_server_Screeshotfrom2019-05-0510-21-14.png)
 
 Update lại time cho server này. Thứ 2 lên thảo luận với anh em.
+
+Reference:
+[Microsoft - A Recommender System for Debugging](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/esec099-ashok.pdf)
