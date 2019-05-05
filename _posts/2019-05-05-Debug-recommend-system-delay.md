@@ -24,6 +24,7 @@ Tôi bắt đầu từ các function của hệ thống trước, với logger:
 - Computing CPU/RAM
 - Data processing save result prediction
 - Database/Cache tương tác với API
+
 Kết quả monitor những vấn đề này hoạt động bình thường.
 
 Quá trình ghi logs (Message queue, Sparking streaming resource, Cassandra lưu hành vi người dùng) hoạt động bình thường.
