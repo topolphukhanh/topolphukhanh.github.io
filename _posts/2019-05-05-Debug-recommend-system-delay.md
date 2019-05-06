@@ -18,6 +18,7 @@ Mindset sẽ là lần ngược các vết có khả năng:
 
 
 Tôi bắt đầu từ các function của hệ thống trước, với logger:
+
 - Data processing, generate features, mapping, tương tác với các database metadata
 - Models 
 - Computing GPU
@@ -35,5 +36,8 @@ Quá trình ghi recieve_at trên logs hoạt động bình thường về thời
 
 Update lại time cho server này. Thứ 2 lên thảo luận với anh em.
 
+>> Update thứ 2:
+Oke đã xử lý xong.
+
 Reference:
-[Microsoft - A Recommender System for Debugging](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/esec099-ashok.pdf)
+[Microsoft - A Recommender System for Debugging](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/esec099-ashok.pdf)git 
