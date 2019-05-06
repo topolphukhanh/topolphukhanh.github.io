@@ -36,7 +36,7 @@ Quá trình ghi recieve_at trên logs hoạt động bình thường về thời
 
 Update lại time cho server này. Thứ 2 lên thảo luận với anh em.
 
->> Update thứ 2:
+> Update thứ 2:
 Oke đã xử lý xong.
 
 Reference:
