@@ -13,27 +13,27 @@ The best productivity tip I ever got was the idea of a “stop-doing list” fro
 
 Here’s a list of the things I don’t do while working:
 
-- I don’t schedule meetings in the morning.
-- I don’t listen to music or radio that has words.
-- I don’t look at my email until I’ve done 90 mins of deep-attention work.
-- I don’t treat emails from people I don’t know as urgent.
-- I don’t look at social media until the afternoon, and then only on breaks.
-- I don’t tweet live. (I schedule almost everything in advance.)
-- I don’t over-program my daily schedule so that there is no downtiume.
-- I don’t work more than 3 hours without a break.
-- I don’t answer my phone or texts in the morning.
-- I don’t use Slack.
-- I don’t read the news.
-- I don’t eat at my desk.
-- I don’t work past 6pm.
+- Schedule meetings in the morning.
+- Listen to music or radio that has words.
+me.
+- Work more than 3 hours without a break.
+- Over-program my daily schedule so that there is no downtime.
+- Eat at my desk.
+- Work 6pm-1am.
+
+Email, Social & News:
+- Look at my email until I’ve done 60 mins of deep-attention work.
+- Treat emails from people I don’t know as urgent.
+- Look at social media, news until the afternoon, and then only on breaks.
+- Answer my phone or texts in the morning.
 
 
 And here’s a list of things I make sure to do:
-- I do make my to-do list for tomorrow the night before.
-- I do focus on deep-attention before hyper-attention work.
-- I do regularly identify and update my goals for the next 6 months, and the actions I need to take to meet them.
-- I do always have a variety of projects on my slate so I can shift tasks based on my mood and energy level, while still getting important stuff done.
-- I do meet (or catch up with) one interesting person a week.
+- Make my to-do list for tomorrow the night before.
+- Focus on deep-attention before hyper-attention work.
+- Regularly identify and update my goals for the next 6 months, and the actions I need to take to meet them.
+- Always have 3 projects on my slate so I can shift tasks based on my mood and energy level, while still getting important stuff done.
+- Do meet (or catch up with) one interesting person a week.
 
 
 Now you might be thinking: Well, I can’t not do all of those things!Like you can’t avoid morning meetings or your team requires you to be on Slack all day. Or maybe you think that not reading the news is just plain crazy. (Most people do.)
