@@ -21,11 +21,13 @@ me.
 - Work 6pm-1am.
 
 Email, Social & News:
+
 - Look at my email/Answer my phone or texts until I’ve done 60 mins of deep-attention work.
 - Look at social media, news until the afternoon, and then only on breaks.
 
 
 And here’s a list of things I make sure to do:
+
 - Make my to-do list for tomorrow the night before.
 - Focus on deep-attention before hyper-attention work.git
 - Always have 3 projects on my slate so I can shift tasks based on my mood and energy level, while still getting important stuff done.
