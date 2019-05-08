@@ -9,7 +9,7 @@ description: A Recommender System for Debugging - Delay.
 
 Hệ thống recommendation system bị delay vài phút !?
 
-Nguyên nhân là gì
+Nguyên nhân là gì !?
 
 Mindset sẽ là lần ngược các vết có khả năng:
 - Bắt đầu từ hệ thống

@@ -19,7 +19,7 @@ Here’s a list of the things I don’t do while working:
 - I don’t treat emails from people I don’t know as urgent.
 - I don’t look at social media until the afternoon, and then only on breaks.
 - I don’t tweet live. (I schedule almost everything in advance.)
-- I don’t over-program my daily schedule so that there is no downtiume.
+- I don’t over-program my daily schedule so that there is no downtime.
 - I don’t work more than 3 hours without a break.
 - I don’t answer my phone or texts in the morning.
 - I don’t use Slack.
