@@ -40,4 +40,4 @@ Update lại time cho server này. Thứ 2 lên thảo luận với anh em.
 Oke đã xử lý xong.
 
 Reference:
-[Microsoft - A Recommender System for Debugging](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/esec099-ashok.pdf)git 
+[Microsoft - A Recommender System for Debugging](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/esec099-ashok.pdf)
