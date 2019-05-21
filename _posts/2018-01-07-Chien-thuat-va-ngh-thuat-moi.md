@@ -1,11 +1,10 @@
 ---
 layout: post
-title: A Recommender System for Debugging - Delay.
+title: Chiến thuật và nghệ thuật mới.
 categories: [Strategy]
 tags: [Strategy]
-description: A Recommender System for Debugging - Delay.
+description: Chiến thuật và nghệ thuật mới.
 --- 
-
 Dưới đây là phân tích của chuyên gia quân sự, Thượng nghị sĩ, Thượng tướng Viktor Bondarev, cựu Tư lệnh Không quân-vũ trụ Nga.
 
 Chiến dịch Syria là chiến dịch quân sự lớn nhất của Nga trong những năm gần đây. Lần gần đây nhất, Nga giao chiến vào năm 2008 khi nổ ra cuộc xung đột Gruzia-Nam Osetya. 
@@ -25,13 +24,9 @@ Còn với sự phát triển tiếp theo và sự ứng dụng rộng rãi, cá
 Nhìn chung, vũ khí chính xác cao đã làm thay đổi nhiều chiến thuật, hoạt động tác chiến, chiến lược và tính chất chiến tranh thế hệ mới, mang lại cho nó hàng loạt những đặc tính khác biệt so với chiến tranh của quá khứ.
 
 - Một là việc sử dụng vũ khí chính xác cao cho phép rút ngắn thời gian các chiến dịch quân sự. Chúng tôi đã quét sạch bọn khủng bố khỏi Syria trong hơn 2 năm một chút. Trong khi tính đến tháng 9/2015, chúng đã khống chế hơn 70% lãnh thổ Syria!
-
 - Hai là độ chính xác bắn cao làm tăng sức mạnh sát thương của quả đạn, có nghĩa là cho phép tiết kiệm số lượng đạn (nhất là khi cả uy lực của quả đạn cũng tăng lên đồng bộ với độ chính xác). Có nghĩa là chiến tranh tất yếu sẽ tốn kém thêm vì các công nghệ tốn nhiều tiền đầu tư, nhưng sẽ rẻ đi vì nâng cao được hiệu quả sử dụng vũ khí.
-
 - Ba là nhờ vũ khí chính xác cao mà chiều sâu sát thương hỏa lực đối phương tăng lên, có nghĩa là các cụm quân địch nằm rất sâu trong đội hình tác chiến cũng buộc phải tham chiến. Điều đó làm suy kiệt mạnh kẻ địch. 
-
-- Bốn là vũ khí chính xác cao quy định sự tiến hóa của hoạt động tác chiến: từ trực tiếp tiếp xúc trên tiền duyên, lực lượng tác chiến chuyển sang phương thức tấn công tiêu diệt tầm xa, các hành động từ xa đã bắt đầu nổi trội hơn cận chiến. Nhờ đó, các cuộc tấn công hỏa lực và hoạt động chiến đấu đã chuyển từ tính “dày đặc” sang “điểm”.
-Trong chiến tranh Syria, xu hướng tấn công ồ ạt đã được củng cố. Xin nhắc lại là nhờ những hành động đó mà Palmyra và Deir ez-Zor đã được giải phóng. 
+- Bốn là vũ khí chính xác cao quy định sự tiến hóa của hoạt động tác chiến: từ trực tiếp tiếp xúc trên tiền duyên, lực lượng tác chiến chuyển sang phương thức tấn công tiêu diệt tầm xa, các hành động từ xa đã bắt đầu nổi trội hơn cận chiến. Nhờ đó, các cuộc tấn công hỏa lực và hoạt động chiến đấu đã chuyển từ tính “dày đặc” sang “điểm”. Trong chiến tranh Syria, xu hướng tấn công ồ ạt đã được củng cố. Xin nhắc lại là nhờ những hành động đó mà Palmyra và Deir ez-Zor đã được giải phóng. 
 - Tiếp nữa. Thành tố quan trọng của chiến tranh hiện đại (và Syria đã cho thấy điều đó) là trinh sát công nghệ cao. Thuộc về nó có cả các phương tiện tác chiến điện tử, cả các vệ tinh trên vũ trụ. Các máy bay không người lái của chúng tôi đã thể hiện rất tốt ở Syria. Sự phát triển của các phương tiện trinh sát đã không chỉ đơn giản hóa đáng kể việc tìm kiếm các mục tiêu để tấn công mà còn cho phép đối phó hiệu quả với các phương pháp khác nhau mà đối phương sử dụng để loại khỏi vòng chiến các hệ thống chỉ huy và thông tin liên lạc của chúng tôi. Các công nghệ cao mà lực lượng tình báo sử dụng đã cho phép tăng tốc độ hiệu chỉnh cho không quân, để thực hiện các cuộc tấn công chính xác vào các mục tiêu có tính đến các hành động của đối phương. Bởi có thể ở mức thời gian thực theo dõi những thay đổi nhỏ nhất của tình hình, lập tức phản ứng với chúng.
 - Sự trợ giúp quan trọng nhất để bảo đảm thắng lợi trong chiến tranh hiện đại là chiếm giữ các khu vực đô thị. Tương ứng, thành phố, không gian đô thị trở thành chiến trường. Nhưng do xe thiết giáp mặt đất thường rất khó triển khai ở đó vì chúng có hiệu quả thấp trong thành phố do dễ bị tổn thương, vai trò “vĩ cầm số 1” trong “dàn nhạc” chiến đấu lại được dành  cho Không quân-vũ trụ Nga.
 - Chiến tranh Syria là chiến tranh trên đất khách. Một lợi thế là việc chúng tôi đã chiến đấu không đơn độc mà có sự hợp tác chặt chẽ với lục quân của Tổng thống Bashar al-Assad am hiểu địa hình như trong lòng bàn tay.
