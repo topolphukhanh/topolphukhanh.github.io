@@ -2,7 +2,7 @@
 layout: post
 title: Phỏng vấn và tuyển dụng.
 categories: Leadership material
-tags: [Leadership material] [Interviews]
+tags: [Leadership material, Interviews]
 description: Phỏng vấn và tuyển dụng.
 --- 
 
