@@ -8,8 +8,9 @@ description: Phỏng vấn và tuyển dụng.
 
 # Phỏng vấn và tuyển dụng
 
-Note một số kinh nghiệm phỏng vấn
-Tùy vị trí mà trọng số các phần khác nhau.
+Note một số kinh nghiệm để phỏng vấn
+
+Tùy vị trí, số năm kinh nghiệm ứng viên trọng số các phần khác nhau.
 
 0. Senior
 - Pre test
