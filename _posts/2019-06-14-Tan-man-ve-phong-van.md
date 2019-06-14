@@ -2,11 +2,17 @@
 layout: post
 title: Phỏng vấn và tuyển dụng.
 categories: Leadership material
-tags: [Leadership material] [interviews]
+tags: [Leadership material] [Interviews]
 description: Phỏng vấn và tuyển dụng.
 --- 
 
 # Phỏng vấn và tuyển dụng
+
+Note một số kinh nghiệm phỏng vấn
+Tùy vị trí mà trọng số các phần khác nhau.
+
+0. Senior
+- Pre test
 
 1. Động cơ và vận động
 - Lý do
@@ -19,7 +25,7 @@ description: Phỏng vấn và tuyển dụng.
 3. Khả năng và mức độ nắm vấn đề
 - Mô tả project phức tạp
 
-4. Đưa ra bài toán và giải quyết bài toán
+4. Đưa ra bài toán tại đơn vị và kiểm tra khả năng giải quyết bài toán
 
 5. Kinh nghiệm 
 
