@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 150 successful machine learning models: 6 lessons learned at Booking.com
+title: 150 successful machine learning models 6 lessons learned at Booking.com
 categories: [Data Science]
 tags: [Data Science]
-description: 150 successful machine learning models: 6 lessons learned at Booking.com
+description: 150 successful machine learning models 6 lessons learned at Booking.com
 ---
 
 # 150 successful machine learning models: 6 lessons learned at Booking.com
