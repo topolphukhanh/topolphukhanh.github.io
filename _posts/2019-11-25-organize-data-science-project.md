@@ -114,8 +114,13 @@ REFERENCES
 There are several sources to read more about how to organize a project, especially in this case different ideas and practical approaches could be beneficial in order to create a tailored organization system for each company.
 
 [Principles of research code](http://www.theexclusive.org/2012/08/principles-of-research-code.html)
+
 [Cookiecutter Data Science – opinions: Great and straightforward advice about how to manage data science projects.](https://drivendata.github.io/cookiecutter-data-science/#opinions)
+
 [A Quick Guide to Organizing Computational Biology Projects: Excellent article about how to organize a project by William Stafford Noble (2009)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+
 [Why use a control version: a detailed article enumerating the reasons for using a control version. (2014)](https://mikemcquaid.com/2014/01/18/why-use-version-control/)
+
 [Chromebook data science MOOC](https://leanpub.com/universities/set/jhu/chromebook-data-science) – 12 MOOCs offered by faculty members in the Johns Hopkins Department of Biostatistics, Bloomberg School of Public Health. Course 3 is about how to organize data science projects.
+
 Thinkingondata
