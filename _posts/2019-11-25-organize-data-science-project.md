@@ -121,4 +121,4 @@ There are several sources to read more about how to organize a project, especial
 
 [Chromebook data science MOOC](https://leanpub.com/universities/set/jhu/chromebook-data-science) – 12 MOOCs offered by faculty members in the Johns Hopkins Department of Biostatistics, Bloomberg School of Public Health. Course 3 is about how to organize data science projects.
 
-Thinkingondata
+[Thinkingondata]

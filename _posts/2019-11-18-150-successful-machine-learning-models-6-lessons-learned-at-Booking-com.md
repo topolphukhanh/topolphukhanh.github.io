@@ -27,4 +27,5 @@ In case you’re tempted to stop reading at this point, please don’t interpret
 
 Reference:
 [150-successful-machine-learning-models-6-lessons-learned-at-booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
+
 [Blogs](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)
