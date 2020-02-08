@@ -25,6 +25,16 @@ We found that driving true business impact is amazingly hard, plus it is difficu
 
 In case you’re tempted to stop reading at this point, please don’t interpret that quote as saying that investing in machine learning isn’t worth it. On the contrary, developing an organisational capability to design, build, and deploy successful machine learned models in user-facing contexts is, in my opinion, as fundamental to an organisation’s competitiveness as all the other characteristics of high-performing organisations highlighted in the State of DevOps reports. (And by the way, wouldn’t it be wonderful to see data confirming or denying that hypothesis in future reports!).
 
+2.1 Model families
+2.1.1 Traveller Preference Models
+2.1.2 Traveller Context Models
+2.1.3 Item Space Navigation Models.
+2.1.4 User Interface Optimization Models
+2.1.5 Content Curation.
+2.1.6 Content Augmentation. 
+2.2 All model families can provide value
+3. MODELING: OFFLINE MODEL PERFORMANCE IS JUST A HEALTH CHECK
+
 Reference:
 [150-successful-machine-learning-models-6-lessons-learned-at-booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
 
