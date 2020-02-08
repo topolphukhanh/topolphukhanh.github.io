@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Best practices organizing data science projects
+title: Practices organizing data science projects
 categories: [Data Science]
 tags: [Data Science, organizing-projects]
-description: BEST PRACTICES ORGANIZING DATA SCIENCE PROJECTS
+description: PRACTICES ORGANIZING DATA SCIENCE PROJECTS
 ---
 
-# BEST PRACTICES ORGANIZING DATA SCIENCE PROJECTS
+# PRACTICES ORGANIZING DATA SCIENCE PROJECTS
 
 Data science projects imply in most of the cases a lot of data artifacts (like documents, excel files, data from websites, R files, python files), and requires repeating and improving each step, understanding the underlying logic behind each decision.
 
@@ -17,7 +17,7 @@ More artifacts: images, documents, data, and all those artifacts could be separa
 One of the most important aspects of being productive in any field is staying organized. Moreover, a big part of staying organized is managing files; then there are some practices applicable to data science projects.
 
 
-## 1. OBJECTIVES FOR A DATA ORGANIZATION
+### 1. OBJECTIVES FOR A DATA ORGANIZATION
 
 There are several objectives to achieve:
 
@@ -26,7 +26,7 @@ There are several objectives to achieve:
 - Improve the quality of the projects: organized projects usually mean detailed explanations along the process. During the process of documentation and under the necessity to explain the reason behind each step is more probable find bugs and inconsistencies.
 
 
-## 2. STARTING A NEW PROJECT: THE BEGINNING
+### 2. STARTING A NEW PROJECT: THE BEGINNING
 
 Since the very beginning, it is a good practice to start with a good organization for a data science project, and instead of considering that as a waste of time, we can see that as a savvy approach to saving times in different ways.
 
@@ -35,7 +35,7 @@ The next ideas are that just ideas, to find the right structure for each project
 When we speak about teaming up with others, everyone has different workflows & ways to work. For a shared project is a good idea to achieve a real consensus about not only the folder structure but the expected content for each folder.
 
 
-### 2.1 CREATING A FOLDER STRUCTURE
+#### 2.1 CREATING A FOLDER STRUCTURE
 
 These folders represent the four parts of any data science project.
 
@@ -45,7 +45,7 @@ code – is the folder for code files used for collecting, cleaning up, or analy
 Products – is the folder for any reports, presentations created for sharing with other people
 
 
-### 2.2 CREATING TIDY AND WORKING DIRECTORIES FOR FILES
+#### 2.2 CREATING TIDY AND WORKING DIRECTORIES FOR FILES
 For the previous structure we need an extra step: divide each folder into two directories: one for tidy files and other for working files.
 
 data/
@@ -109,7 +109,7 @@ products/
 - `tox.ini`: tox file with settings for running tox; see tox.testrun.org
 
 
-### 2.3 CONSTANT IMPROVEMENT: KEEP WORKING ON CREATE THE STRUCTURE
+#### 2.3 CONSTANT IMPROVEMENT: KEEP WORKING ON CREATE THE STRUCTURE
 
 Nothing is static, and the organization of workflows, something that moves and changes all the time is precisely a good example of something dynamic.
 
@@ -118,7 +118,7 @@ Periodically, during the lesson learned meetings (if the project is using PMI me
 Is there something that can do better? So, make a real evaluation if there is a real chance to implement the possible improvement during the next weeks or the next stage for a project. After the implementation of the change, evaluate the obtained results. That is an excellent way to obtain real feedback. There is always some room for a rollback. 😉
 
 
-## 3. USE CONTROL VERSION
+### 3. USE CONTROL VERSION
 
 Why is it necessary to use a control version? To delegate basic tasks like:
 
@@ -128,7 +128,7 @@ To facilitate the process of working with others making it easy to share files a
 Some of the most popular tools are GIT, SVN, Subversion… no matter the final choice the best idea is to implement it.
 
 
-## 4. DOCUMENT EVERYTHING
+### 4. DOCUMENT EVERYTHING
 
 When we are speaking about the documentation we are referring about:
 
@@ -141,18 +141,18 @@ Special consideration for the raw datasets: always keep the raw data as the proj
 The most challenging decision is determining how much time to invest in a document: too much time and yes, it is a waste of time, too little and the documentation will be incomplete and useless.
 
 
-## 5. IMPROVE THE PROCESS
+### 5. IMPROVE THE PROCESS
 
 The fundamental idea is to evaluate the process and improve the workflow.
 
 At the moment to finish a project, or delivery something is a good idea to evaluate if there is something to improve: a better organization for the files, or correct the way to document, no matter what at the end the idea is to understand that any process is in constant movement and you need to improve it.
 
 
-## CONCLUSIONS
+### CONCLUSIONS
 
 Managing the organization of a data project means to evaluate what are the objectives into an organization system, how to structure the data, the best way to establish a backup system and version control and finally how to document all the processes.
 
-## REFERENCES
+### REFERENCES
 
 There are several sources to read more about how to organize a project, especially in this case different ideas and practical approaches could be beneficial in order to create a tailored organization system for each company.
 
