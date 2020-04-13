@@ -41,7 +41,18 @@ In case you’re tempted to stop reading at this point, please don’t interpret
 
 2.2 All model families can provide value.
 
-3. MODELING: OFFLINE MODEL PERFORMANCE IS JUST A HEALTH CHECK.
+MODELING: OFFLINE MODEL PERFORMANCE IS JUST A HEALTH CHECK.
+
+************************************************************
+
+```Note to learn```
+
+- Problem state.
+- Problem define.
+- Messy case, problem state overlaps qua luôn problem define mà thiếu strenghth,weakness methods, độ tin cậy methods.
+- Explanin how to cho biz. 
+- Production AI workflows.
+
 
 Reference:
 [150-successful-machine-learning-models-6-lessons-learned-at-booking.com](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
