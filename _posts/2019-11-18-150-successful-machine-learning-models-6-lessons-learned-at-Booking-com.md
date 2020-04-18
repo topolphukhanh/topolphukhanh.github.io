@@ -49,7 +49,7 @@ MODELING: OFFLINE MODEL PERFORMANCE IS JUST A HEALTH CHECK.
 
 - Problem state.
 - Problem define.
-- Messy case, problem state overlaps qua luôn problem define mà thiếu strenghth,weakness methods, độ tin cậy methods.
+- Messy case, problem state overlaps qua luôn problem define mà thiếu strenghth,weakness methods, độ tin cậy methods, scope methods to solve.
 - Explanin how to cho biz. 
 - Production AI workflows.
 
