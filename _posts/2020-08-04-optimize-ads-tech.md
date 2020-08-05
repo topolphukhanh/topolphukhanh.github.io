@@ -10,7 +10,7 @@ description: Optimization ads tech
 
 A memory of ads tech optimization project in E-commerce industry.
 
-![Sleep score](/assets/media/Ads_tech_optimize.png)
+![Google ads](/pictures/Ads_tech_optimize.png)
 
 This is just connecting the dots, and it's working.
 
