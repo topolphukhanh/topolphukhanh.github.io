@@ -1,24 +1,16 @@
 ---
 layout: post
-title: Optimization ads tech
+title: Something 2021
 categories: [Data Science]
 tags: [Data Science]
-description: Optimization ads tech
+description: Something 2021
 ---
 
-# Optimization ads tech
+Somenote to read 2021:
 
-A memory of ads tech optimization project in E-commerce industry.
+- https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/
 
-![Google ads](/pictures/Ads_tech_optimize.png)
-
-This is just connecting the dots, and luckily it's work.
-
-Dots:
-- Econometrics & Statistic methods to understanding blackbox ads environment. Time series analytics (structural variance decomposition) with endogenous and exogenous factors.
-- Choose weight target modeling to following biz's metrics. Long term & short term relationship factors analytics to choose bottom layer metrics level, to lead according to biz's target metrics [revenue, new user, cost of revenue, cost per order].
-- Bidding strategic with leading metrics (predicting) instead of lagging metrics. Machine learning with supervised machine learning to features importance and deep learning auto-regression to predict with time series.
-- Micro-economic hypothesis to subdivid context monitor to adapt market change and understand error analysis.
+- https://www.pearson.com/uk/educators/higher-education-educators/program/Robbins-Organizational-Behavior-Global-Edition-18th-Edition/PGM2152257.html
 
 
 
