@@ -12,7 +12,7 @@ Somenote to read 2021:
 
 - https://www.pearson.com/uk/educators/higher-education-educators/program/Robbins-Organizational-Behavior-Global-Edition-18th-Edition/PGM2152257.html
 
-The “rigorous” stage.
+Fundamental knowledge
 
 ![OB](/assets/media/OB_1.png)
 
